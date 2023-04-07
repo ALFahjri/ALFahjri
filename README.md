@@ -1,10 +1,31 @@
-#SAYA ALFAHJRI
-<a href="https://discord.com/users/335988287913066498"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/335988287913066498?bg=23283d&borderRadius=8px"/></a>
+# Hallo, I'm AL FAHJRI
 
-☁  <a href="https://www.spigotmc.org/members/ALFAHJRI.416123/">Spigot Profile</a>
-🐱 <a href="https://karyakarsa.com/kamvret/" class="padding-left: 2em;">Github Profile Picture</a>
-⛰  <a href="https://www.patreon.com/Kurzgesagt" class="padding-left: 2em;">Background Picture</a>
-<br>
-## 📋 Profile
+<img srech="63.png">
 
-I code in Java & PHP, sometimes C++
+I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
+
+## Dream
+
+My Dream:
+
+-  Done to laravel 
+-  UGM UNIVERITY
+
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for stopping by!
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
