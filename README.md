@@ -14,7 +14,7 @@ I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nod
 
 My Dream:
 
--  Tech Led Progamer
+-  Tech Led Programmer
 -  UGM UNIVERITY
 
 
