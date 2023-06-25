@@ -1,4 +1,4 @@
-# Hallo, I'm Raden FAHJRI
+# Hallo, I'm Raden Fahjri
 
 <img srech="63.png">
 
