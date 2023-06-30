@@ -2,7 +2,7 @@
 
 <img srech="63.png">
 
-I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs, MySQL, and MongoDB. I'm passionate about creating robust and scalable web applications that solve real-world problems.
+I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nodejs and MySQL. I'm passionate about creating robust and scalable web applications that solve real-world problems.
 
 
 ##### Education:
@@ -14,7 +14,7 @@ I'm a fullstack web developer with expertise in Bootstrap, Reactjs, Laravel, Nod
 
 My Dream:
 
--  Fase A
+-  Fase A For U
 -  UGM UNIVERITY
 
 
